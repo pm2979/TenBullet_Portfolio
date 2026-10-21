@@ -1,0 +1,30 @@
+{
+    "name": "TenBullet.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "DOTween.Modules",
+        "Unity.InputSystem",
+        "Unity.Localization",
+        "Unity.ResourceManager",
+        "Unity.Addressables",
+        "UniTask",
+        "UniTask.Addressables",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI",
+        "Unity.Cinemachine",
+        "Unity.RenderPipelines.Universal.Runtime",
+        "Unity.RenderPipelines.Universal.2D.Runtime",
+        "Unity.RenderPipelines.Core.Runtime",
+        "AstarPathfindingProject",
+        "Edgar.Unity"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
